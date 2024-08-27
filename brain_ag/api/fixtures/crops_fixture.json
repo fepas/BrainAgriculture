@@ -1,0 +1,7 @@
+[
+    {"model": "api.crop", "pk": 1, "fields": {"name": "Soja"}},
+    {"model": "api.crop", "pk": 2, "fields": {"name": "Milho"}},
+    {"model": "api.crop", "pk": 3, "fields": {"name": "Algodão"}},
+    {"model": "api.crop", "pk": 4, "fields": {"name": "Café"}},
+    {"model": "api.crop", "pk": 5, "fields": {"name": "Cana de Açúcar"}}
+]

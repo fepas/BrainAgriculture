@@ -1,0 +1,162 @@
+[
+    {
+        "model": "api.ruralproducer",
+        "pk": 1,
+        "fields": {
+            "doc_type": "CPF",
+            "doc_number": "93375477830",
+            "producer_name": "José da Silva",
+            "farm_name": "Fazenda Boa Vista",
+            "city": "Barretos",
+            "state": "SP",
+            "total_area": "250.00",
+            "arable_area": "180.00",
+            "vegetation_area": "50.00",
+            "planted_crops": [1, 2]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 2,
+        "fields": {
+            "doc_type": "CNPJ",
+            "doc_number": "65201255000168",
+            "producer_name": "Agropecuária Almeida Ltda.",
+            "farm_name": "Fazenda Santa Maria",
+            "city": "Uberlândia",
+            "state": "MG",
+            "total_area": "500.00",
+            "arable_area": "350.00",
+            "vegetation_area": "120.00",
+            "planted_crops": [3, 4]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 3,
+        "fields": {
+            "doc_type": "CPF",
+            "doc_number": "10670868116",
+            "producer_name": "Maria Oliveira",
+            "farm_name": "Fazenda Recanto Feliz",
+            "city": "Goiânia",
+            "state": "GO",
+            "total_area": "300.00",
+            "arable_area": "200.00",
+            "vegetation_area": "70.00",
+            "planted_crops": [2, 5]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 4,
+        "fields": {
+            "doc_type": "CNPJ",
+            "doc_number": "31466328000121",
+            "producer_name": "Agro Santos S.A.",
+            "farm_name": "Fazenda Santo Antônio",
+            "city": "Ribeirão Preto",
+            "state": "SP",
+            "total_area": "800.00",
+            "arable_area": "600.00",
+            "vegetation_area": "150.00",
+            "planted_crops": [1, 4]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 5,
+        "fields": {
+            "doc_type": "CPF",
+            "doc_number": "33344455566",
+            "producer_name": "Carlos Pereira",
+            "farm_name": "Fazenda Nova Esperança",
+            "city": "Campo Grande",
+            "state": "MS",
+            "total_area": "450.00",
+            "arable_area": "300.00",
+            "vegetation_area": "100.00",
+            "planted_crops": [3, 5]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 6,
+        "fields": {
+            "doc_type": "CNPJ",
+            "doc_number": "52997802000111",
+            "producer_name": "Fazendas Reunidas Ltda.",
+            "farm_name": "Fazenda Bela Vista",
+            "city": "Curitiba",
+            "state": "PR",
+            "total_area": "600.00",
+            "arable_area": "400.00",
+            "vegetation_area": "150.00",
+            "planted_crops": [2, 3]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 7,
+        "fields": {
+            "doc_type": "CPF",
+            "doc_number": "22375316924",
+            "producer_name": "Ana Souza",
+            "farm_name": "Fazenda Paraíso",
+            "city": "Maringá",
+            "state": "PR",
+            "total_area": "350.00",
+            "arable_area": "250.00",
+            "vegetation_area": "80.00",
+            "planted_crops": [4, 5]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 8,
+        "fields": {
+            "doc_type": "CNPJ",
+            "doc_number": "57473838000110",
+            "producer_name": "Agroindústria Silva Ltda.",
+            "farm_name": "Fazenda Palmeiras",
+            "city": "Fortaleza",
+            "state": "CE",
+            "total_area": "700.00",
+            "arable_area": "500.00",
+            "vegetation_area": "150.00",
+            "planted_crops": [1, 2]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 9,
+        "fields": {
+            "doc_type": "CPF",
+            "doc_number": "95503980131",
+            "producer_name": "Roberto Lima",
+            "farm_name": "Fazenda Horizonte",
+            "city": "Campo Grande",
+            "state": "MS",
+            "total_area": "400.00",
+            "arable_area": "250.00",
+            "vegetation_area": "120.00",
+            "planted_crops": [3, 4]
+        }
+    },
+    {
+        "model": "api.ruralproducer",
+        "pk": 10,
+        "fields": {
+            "doc_type": "CNPJ",
+            "doc_number": "73823260000130",
+            "producer_name": "Cooperativa Agropecuária Brasileira",
+            "farm_name": "Fazenda União",
+            "city": "Campo Grande",
+            "state": "MS",
+            "total_area": "1000.00",
+            "arable_area": "700.00",
+            "vegetation_area": "200.00",
+            "planted_crops": [1, 5]
+        }
+    }
+]
